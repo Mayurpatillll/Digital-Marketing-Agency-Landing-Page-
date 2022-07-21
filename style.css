@@ -8,6 +8,8 @@
     width: 100vw;
     height: 100vh;
     font-family: Poppins;
+    border-top: 2px solid black;
+
 }
 
 nav {
